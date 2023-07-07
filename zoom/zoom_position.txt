@@ -1,0 +1,1 @@
+{'left': {'bottom': 1247, 'top': 387, 'left': 38, 'right': 1958}, 'right': {'bottom': 1247, 'top': 387, 'left': 960, 'right': 2880}, 'size': {'width': 2880, 'height': 1290}, 'barrier': {'left': (652, 430), 'right': (1268, 430)}}
