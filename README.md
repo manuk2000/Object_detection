@@ -41,12 +41,6 @@ applied zoom effect. Running the result.py file will
 provide you with the visual outcome of the zooming
 process on the input video.
 
-## Requirements
-
-To run this program, you need to install OpenCV. You
-can install it using the following command:
-
-
 Also, download the source code file from [this link]
 (https://pysource.com/wp-content/uploads/2021/10/
 Object-tracking-from-scratch-source_code.zip) and
